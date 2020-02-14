@@ -1,4 +1,7 @@
 # conversor
+conversor de moedas usando vue.js
+desenvolvido em acompanhamendo do video do canal Programador Br ===> https://www.youtube.com/watch?v=tIEa3MRBpI0
+
 
 ## Project setup
 ```
@@ -10,15 +13,4 @@ yarn install
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
